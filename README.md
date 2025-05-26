@@ -1,3 +1,4 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=AriDev08)
 - 👋 Hi, I’m @Ari
 - 👀 I’m interested in IoT, Robotics, and Web Development
 - 🌱 I’m currently learning mobile app
